@@ -1,35 +1,31 @@
 [![Downloads](https://static.pepy.tech/badge/chatbotai)](https://pepy.tech/project/chatbotai)
 [![PyPI version](https://badge.fury.io/py/chatbotAI.svg)](https://badge.fury.io/py/chatbotAI)
-![Upload Python Package](https://github.com/ahmadfaizalbh/Chatbot/workflows/Upload%20Python%20Package/badge.svg)
-[![CodeQL](https://github.com/ahmadfaizalbh/Chatbot/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/ahmadfaizalbh/Chatbot/actions/workflows/codeql-analysis.yml)
+![Upload Python Package](https://github.com/ankit0verma/chatbot/workflows/Upload%20Python%20Package/badge.svg)
+[![CodeQL](https://github.com/ankit0verma/chatbot/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/ankit0verma/chatbot/actions/workflows/codeql-analysis.yml)
 
 # ChatBotAI
-Python chatbot AI that helps in creating a python based chatbot with
-minimal coding. This provides both bots AI and chat handler and also
-allows easy integration of REST API's and python function calls which
-makes it unique and more powerful in functionality. This AI provides
-numerous features like learn, memory, conditional switch, topic-based
-conversation handling, etc.
+Python chatbot AI that helps in creating a Python-based chatbot with minimal coding.  
+It provides AI-powered bots, chat handling, REST API integration, and Python function calls.  
+Features include learning, memory, conditional switches, topic-based conversation handling, and more.
 
 ## 🚀 NEW: Ollama Integration
 Now supports **Ollama with Llama 3.2** for state-of-the-art AI responses!
-- No training required - uses pretrained models
+- No training required — uses pretrained models
 - Coherent, human-like conversations
 - Local inference (no API costs)
 - See `OLLAMA_SETUP.md` for installation instructions
 
-
-![Demo GUI](https://raw.githubusercontent.com/ahmadfaizalbh/Chatbot/master/images/demo_gui.gif)
-
-![Demo](https://raw.githubusercontent.com/ahmadfaizalbh/Chatbot/master/images/demo.gif)
-![Clothing assistance](https://raw.githubusercontent.com/ahmadfaizalbh/Chatbot/master/images/clothing.gif)
-![Reminder](https://raw.githubusercontent.com/ahmadfaizalbh/Chatbot/master/images/reminder.gif)
+![Demo GUI](https://raw.githubusercontent.com/ankit0verma/chatbot/master/images/demo_gui.gif)
+![Demo](https://raw.githubusercontent.com/ankit0verma/chatbot/master/images/demo.gif)
+![Clothing assistance](https://raw.githubusercontent.com/ankit0verma/chatbot/master/images/clothing.gif)
+![Reminder](https://raw.githubusercontent.com/ankit0verma/chatbot/master/images/reminder.gif)
 
 ## Installation
 
-Install from PyPI (includes Ollama setup):
+Install from PyPI:
 ```sh
 pip install chatbotAI
+
 ```
 *During installation, you'll be prompted to install Ollama for AI responses.*
 
